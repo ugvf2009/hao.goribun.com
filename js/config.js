@@ -1197,7 +1197,7 @@ bookmark[0][3] = {
 bookmark[0][4] = {
     title: "豆瓣",
     url: "http://www.douban.com",
-    thumb: "jf.png"
+    thumb: "jd.png"
 };
 bookmark[0][5] = {
     title: "新浪微博",
