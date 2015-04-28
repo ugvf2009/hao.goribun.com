@@ -1185,9 +1185,9 @@ bookmark[0][1] = {
     thumb: "qq.png"
 };
 bookmark[0][2] = {
-    title: "搜狐",
-    url: "http://www.sohu.com",
-    thumb: "sohu.png"
+    title: "谷歌",
+    url: "http://www.google.com",
+    thumb: "google.png"
 };
 bookmark[0][3] = {
     title: "新浪网",
@@ -1195,8 +1195,8 @@ bookmark[0][3] = {
     thumb: "sina.png"
 };
 bookmark[0][4] = {
-    title: "豆瓣",
-    url: "http://www.douban.com",
+    title: "京东",
+    url: "http://union.click.jd.com/jdc?e=&p=AiIBZRprFDJWWA1FBCVbV0IUEEULRFRBSkAOClBMW0srBUlXW0UyfitwAE5PIGsjcnZrbAkbDRkOIgZlGFITABoFVBpTJTJzdWU%3D&t=W1dCFBBFC0RUQUpADgpQTFtL",
     thumb: "jd.png"
 };
 bookmark[0][5] = {
@@ -1205,14 +1205,14 @@ bookmark[0][5] = {
     thumb: "weibo.png"
 };
 bookmark[0][6] = {
-    title: "人人网",
-    url: "http://www.renren.com",
-    thumb: "renren.png"
+    title: "GitHub",
+    url: "http://www.github.com",
+    thumb: "github.png"
 };
 bookmark[0][7] = {
-    title: "央视网",
-    url: "http://www.cctv.com",
-    thumb: "cctv.png"
+    title: "知乎",
+    url: "http://www.zhihu.com",
+    thumb: "zhihu.png"
 };
 bookmark[0][8] = {
     title: "QQ空间",
@@ -1225,14 +1225,14 @@ bookmark[0][9] = {
     thumb: "youku.png"
 };
 bookmark[0][10] = {
-    title: "凤凰网",
-    url: "https://www.ifeng.com",
-    thumb: "ifeng.png"
+    title: "CSDN",
+    url: "http://www.csdn.net",
+    thumb: "csdn.png"
 };
 bookmark[0][11] = {
-    title: "3399小游戏",
-    url: "http://www.3399.com/?fr=10009-1",
-    thumb: "3399.png"
+    title: "淘宝网",
+    url: "http://ai.taobao.com?pid=mm_27337129_9420872_32012443",
+    thumb: "tb.png"
 };
 bookmark[1][0] = {
     title: "苏宁",

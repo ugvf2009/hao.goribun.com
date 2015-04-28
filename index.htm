@@ -167,27 +167,5 @@
                 <div id="thumb9-12"></div>
             </div><!-- end wrapper9 -->
 		</div><!-- end place -->
-<script language="JavaScript1.2">
-var message="Win8导航  (按下键盘左右方向键、或滚动鼠标键看看效果吧。)          "
-var message=message+" "
-i="0"
-var temptitle=""
-var speed="250"
-function titler(){
-if (!document.all&&!document.getElementById)
-return
-document.title=temptitle+message.charAt(i)
-temptitle=temptitle+message.charAt(i)
-i++
-if(i==message.length)
-{
-i="0"
-temptitle=""
-}
-setTimeout("titler()",speed)
-}
-window.onload=titler
-</script>
-<div style="display:none"><script src="js/tj.js"></script></div>
 	</body>
 </html>
