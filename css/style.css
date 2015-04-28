@@ -325,13 +325,25 @@ button:hover {
 	box-shadow:none!important;
 	margin:5px!important
 }
-#thumb1-1,#thumb2-1,#thumb3-1,#thumb4-1,#thumb5-1,#thumb6-1,#thumb7-1,#thumb8-1,#thumb9-1 {
+
+#thumb1-1{
 	width:215px;
 	height:103px;
 	position:absolute;
 	left:0;
 	top:0;
-	background:url(../lib/1.png);
+	background:#2a82ec;
+	line-height:103px
+}
+
+
+#thumb2-1,#thumb3-1,#thumb4-1,#thumb5-1,#thumb6-1,#thumb7-1,#thumb8-1,#thumb9-1 {
+	width:215px;
+	height:103px;
+	position:absolute;
+	left:0;
+	top:0;
+	background:#2a82ec;
 	line-height:103px
 }
 #thumb1-1 img,#thumb2-1 img,#thumb3-1 img,#thumb4-1 img,#thumb5-1 img,#thumb6-1 img,#thumb7-1 img,#thumb8-1 img,#thumb9-1 img {
@@ -397,7 +409,7 @@ button:hover {
 	position:absolute;
 	left:225px;
 	top:75px;
-	background:url('../lib/5.png');
+	background:#c51b2a;
 	line-height:140px
 }
 #thumb1-5 img,#thumb2-5 img,#thumb3-5 img,#thumb4-5 img,#thumb5-5 img,#thumb6-5 img,#thumb7-5 img,#thumb8-5 img,#thumb9-5 img {

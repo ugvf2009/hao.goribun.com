@@ -1175,9 +1175,9 @@ bookmark[7] = new Array();
 bookmark[8] = new Array();
 bookmark[9] = new Array();
 bookmark[0][0] = {
-    title: "网易",
-    url: "http://www.163.com",
-    thumb: "163.png"
+    title: "百度",
+    url: "https://www.baidu.com",
+    thumb: "baidu.png"
 };
 bookmark[0][1] = {
     title: "腾讯网",
@@ -1197,7 +1197,7 @@ bookmark[0][3] = {
 bookmark[0][4] = {
     title: "豆瓣",
     url: "http://www.douban.com",
-    thumb: "douban.png"
+    thumb: "jd.png"
 };
 bookmark[0][5] = {
     title: "新浪微博",
