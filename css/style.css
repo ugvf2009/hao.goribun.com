@@ -378,6 +378,17 @@ button:hover {
 	line-height:215px
 
 }
+
+#thumb1-13{
+	width:155px;
+	height:175px;
+	position:absolute;
+	left:770px;
+	top:0;
+	background:#27AE60;
+	padding: 20px
+}
+
 #thumb2-6,#thumb3-6,#thumb4-6,#thumb5-6,#thumb6-6,#thumb7-6,#thumb8-6,#thumb9-6 {
 	width:440px;
 	height:215px;
@@ -391,7 +402,7 @@ button:hover {
 	max-width:440px;
 	max-height:215px
 }
-#thumb1-6 .title,#thumb2-6 .title,#thumb3-6 .title,#thumb4-6 .title,#thumb5-6 .title,#thumb6-6 .title,#thumb7-6 .title,#thumb8-6 .title,#thumb9-6 .title {
+#thumb1-6 .title,#thumb1-6-2 .title,#thumb2-6 .title,#thumb3-6 .title,#thumb4-6 .title,#thumb5-6 .title,#thumb6-6 .title,#thumb7-6 .title,#thumb8-6 .title,#thumb9-6 .title {
 	font-size:54px
 }
 /*******  x-7  ***********/
@@ -471,7 +482,7 @@ button:hover {
 	position:absolute;
 	left:340px;
 	top:225px;
-	background:#2e8bcc;
+	background:#C0392B;
 	line-height:205px
 }
 #thumb1-10 img,#thumb2-10 img,#thumb3-10 img,#thumb4-10 img,#thumb5-10 img,#thumb6-10 img,#thumb7-10 img,#thumb8-10 img,#thumb9-10 img {
@@ -489,7 +500,7 @@ button:hover {
 	position:absolute;
 	left:770px;
 	top:225px;
-	background:#16A085;
+	background:#E74C3C;
 	line-height:98px
 }
 #thumb2-11,#thumb3-11,#thumb4-11,#thumb5-11,#thumb6-11,#thumb7-11,#thumb8-11,#thumb9-11 {

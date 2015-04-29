@@ -871,6 +871,13 @@ bookmark[0][11] = {
     url: "http://ai.taobao.com?pid=mm_27337129_9420872_32012443",
     thumb: "tb.png"
 };
+
+bookmark[0][12] = {
+    title: "梦芭莎",
+    url: "http://p.yiqifa.com/c?s=4f5f315d&w=253302&c=298&i=323&l=0&e=win8&t=http://www.moonbasa.com/",
+    thumb: "tb.png"
+};
+
 bookmark[1][0] = {
     title: "苏宁",
     url: "http://p.yiqifa.com/c?s=25ffbe45&w=253302&c=4459&i=5662&l=0&e=win8&t=http://www.suning.com/",
@@ -931,6 +938,7 @@ bookmark[1][11] = {
     url: "http://p.yiqifa.com/c?s=4f5f315d&w=253302&c=298&i=323&l=0&e=win8&t=http://www.moonbasa.com/",
     thumb: "moonbasa.png"
 };
+
 bookmark[2][0] = {
     title: "花瓣网",
     url: "http://huaban.com/",
@@ -1351,3 +1359,14 @@ bookmark[8][11] = {
     url: "http://bbs.3dmgame.com/",
     thumb: "3dmgame.png"
 };
+
+function time()
+{
+    var now = new Date();
+    var month = now.getMonth();
+    var em = new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Spt","Oct","Nov","Dec");
+    var date = now.getDate();
+//写入相应id
+document.getElementById("dd").innerHTML=date;
+document.getElementById("mm").innerHTML=em[month];
+} 
