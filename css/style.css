@@ -432,13 +432,23 @@ button:hover {
 #thumb1-5 .title,#thumb2-5 .title,#thumb3-5 .title,#thumb4-5 .title,#thumb5-5 .title,#thumb6-5 .title,#thumb7-5 .title,#thumb8-5 .title,#thumb9-5 .title {
 	font-size:35px
 }
-#thumb1-6,#thumb2-6,#thumb3-6,#thumb4-6,#thumb5-6,#thumb6-6,#thumb7-6,#thumb8-6,#thumb9-6 {
+#thumb1-6{
+	width:235px;
+	height:215px;
+	position:absolute;
+	left:525px;
+	top:0;
+	background:#8E44AD;
+	line-height:215px
+
+}
+#thumb2-6,#thumb3-6,#thumb4-6,#thumb5-6,#thumb6-6,#thumb7-6,#thumb8-6,#thumb9-6 {
 	width:440px;
 	height:215px;
 	position:absolute;
 	left:525px;
 	top:0;
-	background:url('../lib/6.png');
+	background:#8E44AD;
 	line-height:215px
 }
 #thumb1-6 img,#thumb2-6 img,#thumb3-6 img,#thumb4-6 img,#thumb5-6 img,#thumb6-6 img,#thumb7-6 img,#thumb8-6 img,#thumb9-6 img {
@@ -509,7 +519,7 @@ button:hover {
 	position:absolute;
 	left:170px;
 	top:365px;
-	background:url('../lib/9.png');
+	background:#2e8bcc;
 	line-height:75px
 }
 #thumb1-9 img,#thumb2-9 img,#thumb3-9 img,#thumb4-9 img,#thumb5-9 img,#thumb6-9 img,#thumb7-9 img,#thumb8-9 img,#thumb9-9 img {
@@ -525,7 +535,7 @@ button:hover {
 	position:absolute;
 	left:340px;
 	top:225px;
-	background:url('../lib/10.png');
+	background:#2e8bcc;
 	line-height:205px
 }
 #thumb1-10 img,#thumb2-10 img,#thumb3-10 img,#thumb4-10 img,#thumb5-10 img,#thumb6-10 img,#thumb7-10 img,#thumb8-10 img,#thumb9-10 img {
