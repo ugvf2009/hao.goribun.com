@@ -234,71 +234,7 @@ button:hover {
 	background:url(../lib/arrow-hover.png) no-repeat center;
 	cursor:pointer
 }
-#search-engine1,#search-engine2,#search-engine3,#search-engine4,#search-engine5,#search-engine6,#search-engine7,#search-engine8,#search-engine9 {
-	height:30px;
-	width:30px;
-	position:absolute;
-	top:0;
-	right:35px;
-	background:url(../lib/search.png) center center no-repeat
-}
-#search-engine1:hover,#search-engine2:hover,#search-engine3:hover,#search-engine4:hover,#search-engine5:hover,#search-engine6:hover,#search-engine7:hover,#search-engine8:hover,#search-engine9:hover {
-	background:url(../lib/search-hover.png) center center no-repeat;
-	cursor:pointer;
-	border:0!important;
-	box-shadow:0 0 0 #fff!important;
-	margin:5px!important
-}
-#engines1,#engines2,#engines3,#engines4,#engines5,#engines6,#engines7,#engines8,#engines9 {
-	width:120px;
-	height:30px;
-	position:absolute;
-	top:0;
-	right:65px;
-	display:none
-}
-#engines1:hover,#engines2:hover,#engines3:hover,#engines4:hover,#engines5:hover,#engines6:hover,#engines7:hover,#engines8:hover,#engines9:hover {
-	border:0!important;
-	box-shadow:0 0 0 #fff!important;
-	margin:5px!important
-}
-#google1,#google2,#google3,#google4,#google5,#google6,#google7,#google8,#google9 {
-	background:url(../lib/google.png) center center no-repeat
-}
-#google1:hover,#google2:hover,#google3:hover,#google4:hover,#google5:hover,#google6:hover,#google7:hover,#google8:hover,#google9:hover {
-	background:url(../lib/google-hover.png) center center no-repeat
-}
-#bing1,#bing2,#bing3,#bing4,#bing5,#bing6,#bing7,#bing8,#bing9 {
-	background:url(../lib/bing.png) center center no-repeat
-}
-#bing1:hover,#bing2:hover,#bing3:hover,#bing4:hover,#bing5:hover,#bing6:hover,#bing7:hover,#bing8:hover,#bing9:hover {
-	background:url(../lib/bing-hover.png) center center no-repeat
-}
-#sogou1,#sogou2,#sogou3,#sogou4,#sogou5,#sogou6,#sogou7,#sogou8,#sogou9 {
-	background:url(../lib/sogou.png) center center no-repeat
-}
-#sogou1:hover,#sogou2:hover,#sogou3:hover,#sogou4:hover,#sogou5:hover,#sogou6:hover,#sogou7:hover,#sogou8:hover,#sogou9:hover {
-	background:url(../lib/sogou-hover.png) center center no-repeat
-}
-#baidu1,#baidu2,#baidu3,#baidu4,#baidu5,#baidu6,#baidu7,#baidu8,#baidu9 {
-	background:url(../lib/baidu.png) center center no-repeat
-}
-#baidu1:hover,#baidu2:hover,#baidu3:hover,#baidu4:hover,#baidu5:hover,#baidu6:hover,#baidu7:hover,#baidu8:hover,#baidu9:hover {
-	background:url(../lib/baidu-hover.png) center center no-repeat
-}
-#engines1 div:hover,#engines2 div:hover,#engines3 div:hover,#engines4 div:hover,#engines35 div:hover,#engines6 div:hover,#engines7 div:hover,#engines8 div:hover,#engines9 div:hover {
-	border:0!important;
-	box-shadow:0 0 0 #fff!important;
-	cursor:pointer;
-	margin:0!important
-}
-#engines1 div,#engines2 div,#engines3 div,#engines4 div,#engines5 div,#engines6 div,#engines7 div,#engines8 div,#engines9 div {
-	width:30px;
-	height:30px;
-	float:left;
-	margin:0!important;
-	padding:0!important
-}
+
 #wrapper1 div,#wrapper2 div,#wrapper3 div,#wrapper4 div,#wrapper5 div,#wrapper6 div,#wrapper7 div,#wrapper8 div,#wrapper9 div {
 	text-align:center;
 	margin:5px
