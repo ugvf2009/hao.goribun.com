@@ -249,22 +249,7 @@ $(document).ready(function() {
             $("<style>#wrapper" + D + " div:hover{border: 1px #fff solid;box-shadow: 0px 0px 5px #fff;margin-left:4px;margin-top:4px;}</style>").appendTo("head")
         }
     }
-    if (searchEngine == "google") {
-        search = "http://www.google.com/search"
-    } else {
-        if (searchEngine == "bing") {
-            search = "http://www.bing.com/search"
-        } else {
-            if (searchEngine == "sogou") {
-                search = "http://www.sogou.com/sogou"
-            } else {
-                search = "http://www.google.com/search";
-                searchEngine = "google"
-            }
-        }
-    }
-    $("form").attr("action", search);
-    $("input:text").css("background", "#fff url(lib/" + searchEngine + "-back.png) center right no-repeat");
+    
     var E = $(window).width();
     var F = $(window).height();
     var y = Math.floor((E - 975) / 2);
