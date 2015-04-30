@@ -838,7 +838,7 @@ bookmark[0][4] = {
 };
 bookmark[0][5] = {
     title: "新浪微博",
-    url: "http://weibo.com/?c=spr_web_sq_6164_weibo_t001",
+    url: "http://weibo.com",
     thumb: "weibo.png"
 };
 bookmark[0][6] = {
@@ -872,40 +872,34 @@ bookmark[0][11] = {
     thumb: "tb.png"
 };
 
-bookmark[0][12] = {
-    title: "梦芭莎",
-    url: "http://p.yiqifa.com/c?s=4f5f315d&w=253302&c=298&i=323&l=0&e=win8&t=http://www.moonbasa.com/",
-    thumb: "tb.png"
-};
-
 bookmark[1][0] = {
     title: "苏宁",
-    url: "http://p.yiqifa.com/c?s=25ffbe45&w=253302&c=4459&i=5662&l=0&e=win8&t=http://www.suning.com/",
+    url: "http://www.suning.com/",
     thumb: "suning.png"
 };
 bookmark[1][1] = {
     title: "易迅",
-    url: "http://p.yiqifa.com/c?s=9289bf39&w=253302&c=4330&i=4984&l=0&e=win8&t=http://www.51buy.com",
+    url: "http://p.yiqifa.com/n?k=2mLErnDe1ngH2mLErI6H2mL7WlWLrnRe6ntqWQLlWND76cLSR9WlgsPHkQLErnRe6lKe3lwerIW-&t=http://www.yixun.com",
     thumb: "51buy.png"
 };
 bookmark[1][2] = {
     title: "一号店",
-    url: "http://p.yiqifa.com/c?s=ea58a335&w=253302&c=139&i=802&l=0&e=win8&t=http://www.yihaodian.com/",
+    url: "http://www.yihaodian.com/",
     thumb: "yihaodian.png"
 };
 bookmark[1][3] = {
     title: "唯品会",
-    url: "http://p.yiqifa.com/c?s=ea3b031c&w=253302&c=4018&i=2882&l=0&e=win8&t=http://www.vipshop.com/",
+    url: "http://www.vipshop.com/",
     thumb: "vipshop.png"
 };
 bookmark[1][4] = {
     title: "当当",
-    url: "http://p.yiqifa.com/c?s=a2a2a463&w=253302&c=247&i=159&l=0&e=win8&t=http://www.dangdang.com",
+    url: "http://p.yiqifa.com/n?k=2mLErnts1QLErI6H2mLErn276mLm1NDqWNBH6E2mrI6HkQLErJtL15Dq6ERmrJA4KcA1DcL-&t=http://www.dangdang.com",
     thumb: "dangdang.png"
 };
 bookmark[1][5] = {
     title: "京东",
-    url: "http://p.yiqifa.com/c?s=5308bddc&w=253302&c=254&i=160&l=0&e=win8&t=http://www.jd.com",
+    url: "http://union.click.jd.com/jdc?e=&p=AiIBZRprFDJWWA1FBCVbV0IUEEULRFRBSkAOClBMW0srBUlXW0UyfitwAE5PIGsjcnZrbAkbDRkOIgZlGFITABoFVBpTJTJzdWU%3D&t=W1dCFBBFC0RUQUpADgpQTFtL",
     thumb: "360buy.png"
 };
 bookmark[1][6] = {
@@ -920,22 +914,22 @@ bookmark[1][7] = {
 };
 bookmark[1][8] = {
     title: "好乐买",
-    url: "http://p.yiqifa.com/c?s=970c4440&w=253302&c=6631&i=21922&l=0&e=win8&t=http://www.okbuy.com/",
+    url: "http://www.okbuy.com/",
     thumb: "okbuy.png"
 };
 bookmark[1][9] = {
     title: "淘宝",
-    url: "http://www.taobao.com/go/chn/tbk_channel/onsale.php?pid=mm_10054659_3403176_13200135&eventid=101329",
+    url: "http://ai.taobao.com?pid=mm_27337129_9420872_32012443",
     thumb: "taobao.png"
 };
 bookmark[1][10] = {
     title: "天猫",
-    url: "http://s.click.taobao.com/t_9?p=mm_10054659_3403176_13200135&l=http%3A%2F%2Fwww.tmall.com",
+    url: "http://www.tmall.com",
     thumb: "tmall.png"
 };
 bookmark[1][11] = {
     title: "梦芭莎",
-    url: "http://p.yiqifa.com/c?s=4f5f315d&w=253302&c=298&i=323&l=0&e=win8&t=http://www.moonbasa.com/",
+    url: "http://p.yiqifa.com/n?k=2mLErn2L6nzlrI6H2mLErn4E1Jqy6QLS1NbH6lw7WNtqrnRL1ZLErZyH2mqE6n2qM9Bw3mLE&t=http://www.moonbasa.com",
     thumb: "moonbasa.png"
 };
 

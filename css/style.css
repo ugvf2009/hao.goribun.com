@@ -273,13 +273,23 @@ button:hover {
 }
 
 
-#thumb2-1,#thumb3-1,#thumb4-1,#thumb5-1,#thumb6-1,#thumb7-1,#thumb8-1,#thumb9-1 {
+#thumb2-1{
 	width:215px;
 	height:103px;
 	position:absolute;
 	left:0;
 	top:0;
-	background:#2a82ec;
+	background:#1d7ad9;
+	line-height:103px
+}
+
+#thumb3-1,#thumb4-1,#thumb5-1,#thumb6-1,#thumb7-1,#thumb8-1,#thumb9-1 {
+	width:215px;
+	height:103px;
+	position:absolute;
+	left:0;
+	top:0;
+	background:#1d7ad9;
 	line-height:103px
 }
 #thumb1-1 img,#thumb2-1 img,#thumb3-1 img,#thumb4-1 img,#thumb5-1 img,#thumb6-1 img,#thumb7-1 img,#thumb8-1 img,#thumb9-1 img {
@@ -290,7 +300,29 @@ button:hover {
 	font-size:26px
 }
 /**************      x-2      ***************/
-#thumb1-2,#thumb2-2,#thumb3-2,#thumb4-2,#thumb5-2,#thumb6-2,#thumb7-2,#thumb8-2,#thumb9-2 {
+#thumb1-2{
+	width:215px;
+	height:102px;
+	position:absolute;
+	left:0;
+	top:113px;
+	background:#3498DB;
+	line-height:102px;
+	line-height:102px
+
+}
+#thumb2-2{
+	width:215px;
+	height:102px;
+	position:absolute;
+	left:0;
+	top:113px;
+	background:#1d7ad9;
+	line-height:102px;
+	line-height:102px
+
+}
+#thumb3-2,#thumb4-2,#thumb5-2,#thumb6-2,#thumb7-2,#thumb8-2,#thumb9-2 {
 	width:215px;
 	height:102px;
 	position:absolute;
