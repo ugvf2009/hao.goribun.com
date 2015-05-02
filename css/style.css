@@ -384,7 +384,26 @@ button:hover {
 #thumb1-4 .title,#thumb2-4 .title,#thumb3-4 .title,#thumb4-4 .title,#thumb5-4 .title,#thumb6-4 .title,#thumb7-4 .title,#thumb8-4 .title,#thumb9-4 .title {
 	font-size:16px
 }
-#thumb1-5,#thumb2-5,#thumb3-5,#thumb4-5,#thumb5-5,#thumb6-5,#thumb7-5,#thumb8-5,#thumb9-5 {
+#thumb1-5{
+	width:290px;
+	height:140px;
+	position:absolute;
+	left:225px;
+	top:75px;
+	background:#c51b2a;
+	line-height:140px
+
+}
+#thumb2-5{
+	width:290px;
+	height:140px;
+	position:absolute;
+	left:225px;
+	top:75px;
+	background:#ea1a33;
+	line-height:140px
+}
+#thumb3-5,#thumb4-5,#thumb5-5,#thumb6-5,#thumb7-5,#thumb8-5,#thumb9-5 {
 	width:290px;
 	height:140px;
 	position:absolute;
@@ -421,7 +440,17 @@ button:hover {
 	padding: 20px
 }
 
-#thumb2-6,#thumb3-6,#thumb4-6,#thumb5-6,#thumb6-6,#thumb7-6,#thumb8-6,#thumb9-6 {
+#thumb2-6{
+	width:440px;
+	height:215px;
+	position:absolute;
+	left:525px;
+	top:0;
+	background:#c51b2a;
+	line-height:215px
+
+}
+#thumb3-6,#thumb4-6,#thumb5-6,#thumb6-6,#thumb7-6,#thumb8-6,#thumb9-6 {
 	width:440px;
 	height:215px;
 	position:absolute;
@@ -508,7 +537,26 @@ button:hover {
 #thumb1-9 .title,#thumb2-9 .title,#thumb3-9 .title,#thumb4-9 .title,#thumb5-9 .title,#thumb6-9 .title,#thumb7-9 .title,#thumb8-9 .title,#thumb9-9 .title {
 	font-size:19px
 }
-#thumb1-10,#thumb2-10,#thumb3-10,#thumb4-10,#thumb5-10,#thumb6-10,#thumb7-10,#thumb8-10,#thumb9-10 {
+#thumb1-10{
+	width:420px;
+	height:215px;
+	position:absolute;
+	left:340px;
+	top:225px;
+	background:#C0392B;
+	line-height:205px
+
+}
+#thumb2-10{
+	width:420px;
+	height:215px;
+	position:absolute;
+	left:340px;
+	top:225px;
+	background:#F39C12;
+	line-height:205px
+}
+#thumb3-10,#thumb4-10,#thumb5-10,#thumb6-10,#thumb7-10,#thumb8-10,#thumb9-10 {
 	width:420px;
 	height:215px;
 	position:absolute;
@@ -569,7 +617,7 @@ button:hover {
 	position:absolute;
 	left:770px;
 	top:335px;
-	background:#F39C12;
+	background:#e50065;
 	line-height:97px
 }
 #thumb1-12 img,#thumb2-12 img,#thumb3-12 img,#thumb4-12 img,#thumb5-12 img,#thumb6-12 img,#thumb7-12 img,#thumb8-12 img,#thumb9-12 img {

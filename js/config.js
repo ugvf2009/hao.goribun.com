@@ -793,7 +793,7 @@ var numberOfScreens = 9;
 var blockName = new Array();
 blockName[1] = "常用";
 blockName[2] = "购物";
-blockName[3] = "消遣";
+blockName[3] = "娱乐";
 blockName[4] = "发现";
 blockName[5] = "生活";
 blockName[6] = "程序";
@@ -900,7 +900,7 @@ bookmark[1][4] = {
 bookmark[1][5] = {
     title: "京东",
     url: "http://union.click.jd.com/jdc?e=&p=AiIBZRprFDJWWA1FBCVbV0IUEEULRFRBSkAOClBMW0srBUlXW0UyfitwAE5PIGsjcnZrbAkbDRkOIgZlGFITABoFVBpTJTJzdWU%3D&t=W1dCFBBFC0RUQUpADgpQTFtL",
-    thumb: "360buy.png"
+    thumb: "jd.png"
 };
 bookmark[1][6] = {
     title: "亚马逊",
@@ -909,7 +909,7 @@ bookmark[1][6] = {
 };
 bookmark[1][7] = {
     title: "凡客",
-    url: "http://p.yiqifa.com/c?s=090d5719&w=253302&c=255&i=150&l=0&e=win8&t=http://www.vancl.com",
+    url: "http://www.vancl.com",
     thumb: "vancl.png"
 };
 bookmark[1][8] = {
@@ -920,7 +920,7 @@ bookmark[1][8] = {
 bookmark[1][9] = {
     title: "淘宝",
     url: "http://ai.taobao.com?pid=mm_27337129_9420872_32012443",
-    thumb: "taobao.png"
+    thumb: "tb.png"
 };
 bookmark[1][10] = {
     title: "天猫",
@@ -934,9 +934,9 @@ bookmark[1][11] = {
 };
 
 bookmark[2][0] = {
-    title: "花瓣网",
-    url: "http://huaban.com/",
-    thumb: "huaban.png"
+    title: "PPTV",
+    url: "http://www.pptv.com/",
+    thumb: "pptv.png"
 };
 bookmark[2][1] = {
     title: "音悦Tai",
@@ -949,9 +949,9 @@ bookmark[2][2] = {
     thumb: "doubanfm.png"
 };
 bookmark[2][3] = {
-    title: "悦读FM",
-    url: "http://yuedu.fm/",
-    thumb: "yuedu.png"
+    title: "4399",
+    url: "http://www.4399.com/",
+    thumb: "4399.png"
 };
 bookmark[2][4] = {
     title: "网易公开课",
@@ -959,14 +959,14 @@ bookmark[2][4] = {
     thumb: "open.png"
 };
 bookmark[2][5] = {
-    title: "邻居的耳朵",
-    url: "http://kxt.fm/",
-    thumb: "kxt.png"
+    title: "优酷",
+    url: "http://youku.com/",
+    thumb: "youku.png"
 };
 bookmark[2][6] = {
-    title: "瘾科技",
-    url: "http://cn.engadget.com/",
-    thumb: "engadget.png"
+    title: "起点中文网",
+    url: "http://www.qidian.com/",
+    thumb: "qidian.png"
 };
 bookmark[2][7] = {
     title: "时光电影",
@@ -979,19 +979,19 @@ bookmark[2][8] = {
     thumb: "qiushibaike.png"
 };
 bookmark[2][9] = {
-    title: "book",
-    url: "http://book.6164.com/",
-    thumb: "book.png"
+    title: "爱奇艺",
+    url: "http://iqiyi.com/",
+    thumb: "qiy.png"
 };
 bookmark[2][10] = {
-    title: "TOPIT.ME",
-    url: "http://topit.me/",
-    thumb: "topit.png"
+    title: "酷狗",
+    url: "http://kugou.com/",
+    thumb: "kugou.png"
 };
 bookmark[2][11] = {
-    title: "V电影",
-    url: "http://v.6164.com/",
-    thumb: "vmovier.png"
+    title: "乐视网",
+    url: "http://letv.com/",
+    thumb: "letv.png"
 };
 bookmark[3][0] = {
     title: "知乎",
