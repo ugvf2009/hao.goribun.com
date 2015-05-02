@@ -328,7 +328,7 @@ button:hover {
 	position:absolute;
 	left:0;
 	top:113px;
-	background:#3498DB;
+	background:#669900;
 	line-height:102px;
 	line-height:102px
 }
@@ -521,7 +521,34 @@ button:hover {
 #thumb1-8 .title,#thumb2-8 .title,#thumb3-8 .title,#thumb4-8 .title,#thumb5-8 .title,#thumb6-8 .title,#thumb7-8 .title,#thumb8-8 .title,#thumb9-8 .title {
 	font-size:19px
 }
-#thumb1-9,#thumb2-9,#thumb3-9,#thumb4-9,#thumb5-9,#thumb6-9,#thumb7-9,#thumb8-9,#thumb9-9 {
+#thumb1-9{
+	width:160px;
+	height:75px;
+	position:absolute;
+	left:170px;
+	top:365px;
+	background:#2e8bcc;
+	line-height:75px
+}
+#thumb2-9{
+	width:160px;
+	height:75px;
+	position:absolute;
+	left:170px;
+	top:365px;
+	background:#2e8bcc;
+	line-height:75px
+}
+#thumb3-9{
+	width:160px;
+	height:75px;
+	position:absolute;
+	left:170px;
+	top:365px;
+	background:#b66903;
+	line-height:75px
+}
+#thumb4-9,#thumb5-9,#thumb6-9,#thumb7-9,#thumb8-9,#thumb9-9 {
 	width:160px;
 	height:75px;
 	position:absolute;
