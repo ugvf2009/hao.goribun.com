@@ -450,7 +450,16 @@ button:hover {
 	line-height:215px
 
 }
-#thumb3-6,#thumb4-6,#thumb5-6,#thumb6-6,#thumb7-6,#thumb8-6,#thumb9-6 {
+#thumb3-6{
+	width:440px;
+	height:215px;
+	position:absolute;
+	left:525px;
+	top:0;
+	background:#28a8dc;
+	line-height:215px	
+}
+#thumb4-6,#thumb5-6,#thumb6-6,#thumb7-6,#thumb8-6,#thumb9-6 {
 	width:440px;
 	height:215px;
 	position:absolute;
@@ -583,7 +592,16 @@ button:hover {
 	background:#F39C12;
 	line-height:205px
 }
-#thumb3-10,#thumb4-10,#thumb5-10,#thumb6-10,#thumb7-10,#thumb8-10,#thumb9-10 {
+#thumb3-10{
+	width:420px;
+	height:215px;
+	position:absolute;
+	left:340px;
+	top:225px;
+	background:#699f00;
+	line-height:205px
+	}
+#thumb4-10,#thumb5-10,#thumb6-10,#thumb7-10,#thumb8-10,#thumb9-10 {
 	width:420px;
 	height:215px;
 	position:absolute;
