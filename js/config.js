@@ -1004,7 +1004,7 @@ bookmark[3][1] = {
     thumb: "jandan.png"
 };
 bookmark[3][2] = {
-    title: "爱库",
+    title: "v2ex",
     url: "http://www.v2ex.com/",
     thumb: "v2ex.png"
 };
@@ -1024,9 +1024,9 @@ bookmark[3][5] = {
     thumb: "guokr.png"
 };
 bookmark[3][6] = {
-    title: "佑一良品",
-    url: "http://p.yiqifa.com/c?s=0f0c7283&w=253302&c=5390&i=11702&l=0&e=win8&t=http://www.uiyi.cn/",
-    thumb: "uiyi.png"
+    title: "engadget",
+    url: "http://cn.engadget.com/",
+    thumb: "engadget.png"
 };
 bookmark[3][7] = {
     title: "百度文库",
