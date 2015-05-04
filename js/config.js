@@ -1014,14 +1014,14 @@ bookmark[3][3] = {
     thumb: "vdisk.png"
 };
 bookmark[3][4] = {
-    title: "乐活户外",
-    url: "http://p.yiqifa.com/c?s=1e8194d0&w=253302&c=5588&i=14382&l=0&e=win8&t=http://www.m360.com.cn",
-    thumb: "m360.png"
+    title: "36kr",
+    url: "http://36kr.com/",
+    thumb: "36kr.png"
 };
 bookmark[3][5] = {
-    title: "趣玩",
-    url: "http://p.yiqifa.com/c?s=8e9d9737&w=253302&c=1800&i=1362&l=0&e=win8&t=http://www.quwan.com",
-    thumb: "quwan.png"
+    title: "果壳",
+    url: "http://www.guokr.com/",
+    thumb: "guokr.png"
 };
 bookmark[3][6] = {
     title: "佑一良品",

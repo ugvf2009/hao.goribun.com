@@ -403,7 +403,25 @@ button:hover {
 	background:#ea1a33;
 	line-height:140px
 }
-#thumb3-5,#thumb4-5,#thumb5-5,#thumb6-5,#thumb7-5,#thumb8-5,#thumb9-5 {
+#thumb3-5{
+	width:290px;
+	height:140px;
+	position:absolute;
+	left:225px;
+	top:75px;
+	background:#c51b2a;
+	line-height:140px
+	}
+#thumb4-5{
+    width:290px;
+	height:140px;
+	position:absolute;
+	left:225px;
+	top:75px;
+	background:#1f76bd;
+	line-height:140px
+	}
+	#thumb5-5,#thumb6-5,#thumb7-5,#thumb8-5,#thumb9-5 {
 	width:290px;
 	height:140px;
 	position:absolute;
@@ -459,7 +477,17 @@ button:hover {
 	background:#28a8dc;
 	line-height:215px	
 }
-#thumb4-6,#thumb5-6,#thumb6-6,#thumb7-6,#thumb8-6,#thumb9-6 {
+#thumb4-6{
+	width:440px;
+	height:215px;
+	position:absolute;
+	left:525px;
+	top:0;
+	background:#88c833;
+	line-height:215px
+}
+
+#thumb5-6,#thumb6-6,#thumb7-6,#thumb8-6,#thumb9-6 {
 	width:440px;
 	height:215px;
 	position:absolute;
