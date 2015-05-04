@@ -1005,12 +1005,12 @@ bookmark[3][1] = {
 };
 bookmark[3][2] = {
     title: "爱库",
-    url: "http://www.ikeepu.com/",
-    thumb: "ikeepu.png"
+    url: "http://www.v2ex.com/",
+    thumb: "v2ex.png"
 };
 bookmark[3][3] = {
     title: "微盘",
-    url: "http://vdisk.me/",
+    url: "http://vdisk.weibo.com/",
     thumb: "vdisk.png"
 };
 bookmark[3][4] = {
@@ -1039,9 +1039,9 @@ bookmark[3][8] = {
     thumb: "duitang.png"
 };
 bookmark[3][9] = {
-    title: "巨有趣",
+    title: "爱范儿",
     url: "http://www.juyouqu.com/",
-    thumb: "juyouqu.png"
+    thumb: "ifanr.png"
 };
 bookmark[3][10] = {
     title: "蘑菇街",
