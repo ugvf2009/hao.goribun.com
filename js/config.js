@@ -1040,7 +1040,7 @@ bookmark[3][8] = {
 };
 bookmark[3][9] = {
     title: "爱范儿",
-    url: "http://www.juyouqu.com/",
+    url: "http://www.ifanr.com/",
     thumb: "ifanr.png"
 };
 bookmark[3][10] = {
