@@ -283,7 +283,17 @@ button:hover {
 	line-height:103px
 }
 
-#thumb3-1,#thumb4-1,#thumb5-1,#thumb6-1,#thumb7-1,#thumb8-1,#thumb9-1 {
+#thumb5-1{
+width:215px;
+	height:103px;
+	position:absolute;
+	left:0;
+	top:0;
+	background:#f74334;
+	line-height:103px
+}
+
+#thumb3-1,#thumb4-1,#thumb6-1,#thumb7-1,#thumb8-1,#thumb9-1 {
 	width:215px;
 	height:103px;
 	position:absolute;
@@ -518,8 +528,17 @@ button:hover {
 	line-height:125px
 
 }
+#thumb5-7{
+	width:330px;
+	height:130px;
+	position:absolute;
+	left:0;
+	top:225px;
+	background:#b24422;
+	line-height:125px
+}
 
-#thumb2-7,#thumb3-7,#thumb4-7,#thumb5-7,#thumb6-7,#thumb7-7,#thumb8-7,#thumb9-7 {
+#thumb2-7,#thumb3-7,#thumb4-7,#thumb6-7,#thumb7-7,#thumb8-7,#thumb9-7 {
 	width:330px;
 	height:130px;
 	position:absolute;
@@ -532,7 +551,11 @@ button:hover {
 	max-width:300px;
 	max-height:120px
 }
-#thumb1-7 img,#thumb2-7 img,#thumb4-7 img,#thumb5-7 img,#thumb6-7 img,#thumb7-7 img,#thumb8-7 img,#thumb9-7 img {
+#thumb5-7 img{
+	max-width:180px;
+	max-height:120px
+}
+#thumb1-7 img,#thumb2-7 img,#thumb4-7 img,#thumb6-7 img,#thumb7-7 img,#thumb8-7 img,#thumb9-7 img {
 	max-width:300px;
 	max-height:80px
 }
@@ -550,7 +573,16 @@ button:hover {
 	background:#2980B9;
 	line-height:75px
 }
-#thumb2-8,#thumb3-8,#thumb4-8,#thumb5-8,#thumb6-8,#thumb7-8,#thumb8-8,#thumb9-8 {
+#thumb5-8{
+width:160px;
+	height:75px;
+	position:absolute;
+	left:0;
+	top:365px;
+	background:#35b7aa;
+	line-height:75px
+}
+#thumb2-8,#thumb3-8,#thumb4-8,#thumb6-8,#thumb7-8,#thumb8-8,#thumb9-8 {
 	width:160px;
 	height:75px;
 	position:absolute;

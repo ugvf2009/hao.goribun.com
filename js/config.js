@@ -1055,8 +1055,8 @@ bookmark[3][11] = {
 };
 bookmark[4][0] = {
     title: "聚划算",
-    url: "http://s.click.taobao.com/t?e=zGU34CA7K%2BPkqB05%2Bm7rfGKas1PIKp0U37pZuBotzOg7OjeU9mIWS5%2B5UROBz6sq4fiHePnGhf6UrWuOtfD2G6QGcAHIXpjhEtESpuqsRo0a&pid=mm_10054659_3403176_13200135",
-    thumb: "juhuasuan.png"
+    url: "http://temai.taobao.com?pid=mm_27337129_9420872_32012443",
+    thumb: "tbtm.png"
 };
 bookmark[4][1] = {
     title: "豆果美食",
