@@ -1090,12 +1090,12 @@ bookmark[4][6] = {
 };
 bookmark[4][7] = {
     title: "美团",
-    url: "http://p.yiqifa.com/c?s=3c1c7cd0&w=253302&c=5402&i=11642&l=0&e=win8&t=http://bj.meituan.com/",
+    url: "http://bj.meituan.com/",
     thumb: "meituan.png"
 };
 bookmark[4][8] = {
     title: "前程无忧",
-    url: "http://my.51job.com/my/trace.php?adsnum=19423&ajp=aHR0cDovL3d3dy41MWpvYi5jb20v",
+    url: "http://www.51job.com/",
     thumb: "51job.png"
 };
 bookmark[4][9] = {
@@ -1104,9 +1104,9 @@ bookmark[4][9] = {
     thumb: "zhaopin.png"
 };
 bookmark[4][10] = {
-    title: "金象网",
-    url: "http://p.yiqifa.com/c?s=4bab3b89&w=253302&c=305&i=225&l=0&e=win8&t=http://www.jxdyf.com",
-    thumb: "jxdyf.png"
+    title: "拉钩网",
+    url: "http://www.lagou.com/",
+    thumb: "lagou.png"
 };
 bookmark[4][11] = {
     title: "大众点评网",
