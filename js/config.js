@@ -1145,8 +1145,8 @@ bookmark[5][5] = {
 };
 bookmark[5][6] = {
     title: "sourceforge",
-    url: "http://sourceforge.net/",
-    thumb: "sourceforge.png"
+    url: "http://stackoverflow.com/",
+    thumb: "stackoverflow.png"
 };
 bookmark[5][7] = {
     title: "high scalability",
