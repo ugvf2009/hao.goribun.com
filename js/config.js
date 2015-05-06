@@ -1144,19 +1144,19 @@ bookmark[5][5] = {
     thumb: "github.png"
 };
 bookmark[5][6] = {
-    title: "sourceforge",
+    title: "stackoverflow",
     url: "http://stackoverflow.com/",
     thumb: "stackoverflow.png"
 };
 bookmark[5][7] = {
-    title: "high scalability",
-    url: "http://highscalability.com/",
-    thumb: "highscalability.png"
+    title: "iteye",
+    url: "http://www.iteye.com/",
+    thumb: "iteye.png"
 };
 bookmark[5][8] = {
-    title: "scriptmafia",
-    url: "http://www.scriptmafia.com/",
-    thumb: "scriptmafia.png"
+    title: "cnblogs",
+    url: "http://www.cnblogs.com/",
+    thumb: "cnblogs.png"
 };
 bookmark[5][9] = {
     title: "infoq",
