@@ -1126,7 +1126,7 @@ bookmark[5][1] = {
 bookmark[5][2] = {
     title: "蓝色理想",
     url: "http://www.blueidea.com/",
-    thumb: "blueidea.png"
+    thumb: "51cto.png"
 };
 bookmark[5][3] = {
     title: "阳春非凡",
