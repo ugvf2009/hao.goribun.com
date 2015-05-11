@@ -1119,19 +1119,19 @@ bookmark[5][0] = {
     thumb: "developerworks.png"
 };
 bookmark[5][1] = {
-    title: "Google Code",
-    url: "http://code.google.com/hosting/",
-    thumb: "google-code.png"
+    title: "cnblogs",
+    url: "http://www.cnblogs.com/",
+    thumb: "cnblogs.png"
 };
 bookmark[5][2] = {
-    title: "蓝色理想",
+    title: "51cto",
     url: "http://www.blueidea.com/",
     thumb: "51cto.png"
 };
 bookmark[5][3] = {
-    title: "阳春非凡",
-    url: "http://code.662p.com/",
-    thumb: ""
+    title: "msdn",
+    url: "https://msdn.microsoft.com/zh-CN/",
+    thumb: "msdn.png"
 };
 bookmark[5][4] = {
     title: "开源中国社区",
@@ -1154,9 +1154,9 @@ bookmark[5][7] = {
     thumb: "iteye.png"
 };
 bookmark[5][8] = {
-    title: "cnblogs",
-    url: "http://www.cnblogs.com/",
-    thumb: "cnblogs.png"
+    title: "itpub",
+    url: "http://www.itpub.net/",
+    thumb: "itpub.png"
 };
 bookmark[5][9] = {
     title: "infoq",
