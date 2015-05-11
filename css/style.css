@@ -284,7 +284,7 @@ button:hover {
 }
 
 #thumb5-1{
-width:215px;
+	width:215px;
 	height:103px;
 	position:absolute;
 	left:0;
@@ -532,7 +532,7 @@ width:215px;
 	top:0;
 	background:#60af00;
 	line-height:215px
-	}
+}
 #thumb6-6,#thumb7-6,#thumb8-6,#thumb9-6 {
 	width:440px;
 	height:215px;
@@ -610,7 +610,7 @@ width:215px;
 	line-height:75px
 }
 #thumb5-8{
-width:160px;
+	width:160px;
 	height:75px;
 	position:absolute;
 	left:0;
@@ -744,7 +744,7 @@ width:160px;
 	line-height:205px
 }
 #thumb5-10{
-    width:420px;
+	width:420px;
 	height:215px;
 	position:absolute;
 	left:340px;
@@ -753,8 +753,8 @@ width:160px;
 	line-height:205px
 }
 #thumb6-10{
-    width:420px;
-  	height:215px;
+	width:420px;
+	height:215px;
 	position:absolute;
 	left:340px;
 	top:225px;
@@ -769,7 +769,7 @@ width:160px;
 	top:225px;
 	background:#50b400;
 	line-height:205px
-	}
+}
 #thumb9-10 {
 	width:420px;
 	height:215px;
@@ -862,13 +862,12 @@ width:160px;
 #thumb1-12 .title,#thumb2-12 .title,#thumb3-12 .title,#thumb4-12 .title,#thumb5-12 .title,#thumb6-12 .title,#thumb7-12 .title,#thumb8-12 .title,#thumb9-12 .title {
 	font-size:24px
 }
-
 #footer{
-	height:30px;
-	width:400px;
-	margin-right:auto;
-	margin-left:auto;
-	margin-top:50px;
+	height:20px;
+	width:100%;
+	margin:10px;
+	position: absolute;
+	bottom: 0px;
 	text-align:center;
 	color:#ffffff;
 	font-family:Arial;
