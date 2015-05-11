@@ -731,7 +731,7 @@ $(document).ready(function() {
             var a = bookmark[C][D]["url"];
             var B = bookmark[C][D]["thumb"];
             if (B == "") {
-                $("#thumb" + (C + 1) + "-" + (D + 1)).html('<img id="net" src="lib/net-back.png" /><a href="' + a + '" target="_blank"><div class="title">' + p + "</div></a>")
+                $("#thumb" + (C + 1) + "-" + (D + 1)).html('<a href="' + a + '" target="_blank"><div class="title">' + p + "</div></a>")
             } else {
                 $("#thumb" + (C + 1) + "-" + (D + 1)).html('<a href="' + a + '" target="_blank"><img src="thumbs/' + B + '" /></a>')
             }
@@ -1329,9 +1329,9 @@ bookmark[8][6] = {
     thumb: "gougou.png"
 };
 bookmark[8][7] = {
-    title: "人人影视",
-    url: "http://yyets.com/",
-    thumb: "yyets.png"
+    title: "天空下载站",
+    url: "http://www.skycn.com/",
+    thumb: ""
 };
 bookmark[8][8] = {
     title: "异次元软件世界",
