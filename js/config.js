@@ -1175,7 +1175,7 @@ bookmark[5][11] = {
 };
 bookmark[6][0] = {
     title: "myfonts",
-    url: "http://www.myfonts.com/WhatTheFont/",
+    url: "http://www.myfonts.com/",
     thumb: "myfonts.png"
 };
 bookmark[6][1] = {
@@ -1195,7 +1195,7 @@ bookmark[6][3] = {
 };
 bookmark[6][4] = {
     title: "猪八戒",
-    url: "http://un.zhubajie.com/r/?u=6763674&l=http://www.zhubajie.com/",
+    url: "http://www.zhubajie.com/",
     thumb: "zhubajie.png"
 };
 bookmark[6][5] = {
@@ -1235,62 +1235,62 @@ bookmark[6][11] = {
 };
 bookmark[7][0] = {
     title: "淘宝旅行",
-    url: "http://s.click.taobao.com/t?e=zGU34CA7K%2BPkqB05%2Bm7rfGKas1PIKp0U37pZuBotzOg7OjY%2F2R0Ke3HHzv2kJZUH%2FehqodvBvxouiCPW7UkqmIn4pk08catp7aU2wpqfONSeQJM%3D&pid=mm_10054659_3403176_13200135",
+    url: "http://s.click.taobao.com/t?e=m%3D2%26s%3DH4bgYRiG72AcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAtD%2BZ%2BzvZWtTsNa1DimqJYyl2YTrvH6yR1T6UJ3PKB1qrYA1xhQJr7jy5JhDWiMOGH7uq6sLYIqu0Q7QOybCaQy9AmARIwX9K%2BnbtOD3UdznghrNllucO7OorLd93QuCUMYOae24fhW0",
     thumb: "taobaotrip.png"
 };
 bookmark[7][1] = {
     title: "7天连锁酒店",
-    url: "http://p.yiqifa.com/c?s=5e3a2b70&w=253302&c=7112&i=37909&l=0&e=win8&t=http://e.7daysinn.cn/market/track.php",
+    url: "http://e.7daysinn.cn/",
     thumb: "7daysinn.png"
 };
 bookmark[7][2] = {
     title: "悠哉旅游网",
-    url: "http://p.yiqifa.com/c?s=6d9eafeb&w=253302&c=5528&i=13362&l=0&e=win8&t=http://www.uzai.com",
+    url: "http://www.uzai.com",
     thumb: "uzai.png"
 };
 bookmark[7][3] = {
     title: "快乐E行",
-    url: "http://p.yiqifa.com/c?s=e3dbe8cf&w=253302&c=278&i=15362&l=0&e=win8&t=http://www.etpass.com/",
+    url: "http://www.etpass.com/",
     thumb: "etpass.png"
 };
 bookmark[7][4] = {
     title: "携程",
-    url: "http://p.yiqifa.com/c?s=72ab52bc&w=253302&c=297&i=19323&l=0&d=2756&e=win8&t=http://u.ctrip.com/union/redirect.aspx",
+    url: "http://www.ctrip.com ",
     thumb: "ctrip.png"
 };
 bookmark[7][5] = {
     title: "驴妈妈",
-    url: "http://p.yiqifa.com/c?s=a57c7b5a&w=253302&c=5740&i=16722&l=0&e=win8&t=http://www.lvmama.com",
+    url: "http://p.yiqifa.com/n?k=2mLErntO6l2SrI6H2mLErI6H6NR7WZLm1NDqWNBH1njSWNgH2mqerI6H6nKSMNRsMnUH3NyNY5enrj--&t=http://www.lvmama.com",
     thumb: "lvmama.png"
 };
 bookmark[7][6] = {
     title: "艺龙",
-    url: "http://p.yiqifa.com/c?s=f3b2afae&w=253302&c=276&i=25842&l=0&e=win8&t=http://travel.elong.com/hotel/",
+    url: "http://p.yiqifa.com/n?k=g5BORJeZrI6HWEKF6n4H2mLErI6H2mLS6lMH6lw7WNtqrnRlWQLErZyH2mqw3ED7MnKS1ZLE&t=http://travel.elong.com/hotel/",
     thumb: "elong.png"
 };
 bookmark[7][7] = {
     title: "布丁酒店连锁",
-    url: "http://p.yiqifa.com/c?s=3f420231&w=253302&c=6370&i=18562&l=0&e=win8&t=http://www.podinns.com/",
+    url: "http://p.yiqifa.com/n?k=2mLErntF6N3SrI6H2mLErZX8pB6KPcLOWlRLrnRe6ntqWQLqWnzq6nUH2mqerI6HMJ3S6ERe65PH2L--&t=http://www.podinns.com/",
     thumb: "podinns.png"
 };
 bookmark[7][8] = {
     title: "住哪网",
-    url: "http://p.yiqifa.com/c?s=f4ee47e1&w=253302&c=5491&i=12582&l=0&e=win8&t=http://www.zhuna.cn/",
+    url: "http://www.zhuna.cn/",
     thumb: "zhuna.png"
 };
 bookmark[7][9] = {
     title: "同程网",
-    url: "http://p.yiqifa.com/c?s=15f50b00&w=253302&c=7036&i=27402&l=0&e=win8&t=http://www.17u.cn",
+    url: "http://www.ly.com/",
     thumb: "17u.png"
 };
 bookmark[7][10] = {
     title: "铁友网",
-    url: "http://p.yiqifa.com/c?s=26390d3a&w=253302&c=6451&i=19382&l=0&e=win8&t=http://tj.tieyou.com/gw.php",
+    url: "http://www.tieyou.com/",
     thumb: "tieyou.png"
 };
 bookmark[7][11] = {
     title: "芒果网",
-    url: "http://p.yiqifa.com/c?s=ff90ab53&w=253302&c=5112&i=9542&l=0&e=win8&t=http://www.mangocity.com/",
+    url: "http://p.yiqifa.com/n?k=2mLErnws6n4H2mLErI6Hk5FFNlXxrnKqWN4H6lw7WNtqrnKO1NzqrI6HkQLErnKm3ODlWNMbrIW-&t=http://www.mangocity.com/",
     thumb: "mangocity.png"
 };
 bookmark[8][0] = {
