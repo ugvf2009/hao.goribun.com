@@ -307,7 +307,10 @@ button:hover {
 	max-height:103px
 }
 #thumb1-1 .title,#thumb2-1 .title,#thumb3-1 .title,#thumb4-1 .title,#thumb5-1 .title,#thumb6-1 .title,#thumb7-1 .title,#thumb8-1 .title,#thumb9-1 .title {
-	font-size:26px
+	font-size:39px;
+	line-height: 70px;
+	font-family:微软雅黑;
+	text-align:center;
 }
 /**************      x-2      ***************/
 #thumb1-2{
@@ -388,7 +391,7 @@ button:hover {
 #thumb1-3 .title,#thumb2-3 .title,#thumb3-3 .title,#thumb4-3 .title,#thumb5-3 .title,#thumb6-3 .title,#thumb7-3 .title,#thumb8-3 .title,#thumb9-3 .title {
 	font-size:16px
 }
-#thumb1-4,#thumb2-4,#thumb3-4,#thumb4-4,#thumb5-4,#thumb6-4,#thumb7-4,#thumb8-4,#thumb9-4 {
+#thumb1-4,#thumb2-4,#thumb3-4,#thumb4-4,#thumb5-4,#thumb6-4,#thumb7-4,#thumb9-4 {
 	width:140px;
 	height:65px;
 	position:absolute;
@@ -397,12 +400,24 @@ button:hover {
 	background:#df983a;
 	line-height:65px
 }
+#thumb8-4{
+	width:140px;
+	height:65px;
+	position:absolute;
+	left:375px;
+	top:0;
+	background:#2f9700;
+	line-height:65px
+}
 #thumb1-4 img,#thumb2-4 img,#thumb3-4 img,#thumb4-4 img,#thumb5-4 img,#thumb6-4 img,#thumb7-4 img,#thumb8-4 img,#thumb9-4 img {
 	max-width:140px;
 	max-height:65px
 }
 #thumb1-4 .title,#thumb2-4 .title,#thumb3-4 .title,#thumb4-4 .title,#thumb5-4 .title,#thumb6-4 .title,#thumb7-4 .title,#thumb8-4 .title,#thumb9-4 .title {
-	font-size:16px
+	font-size:32px;
+	line-height: 40px;
+	font-family:微软雅黑;
+	text-align:center;
 }
 #thumb1-5{
 	width:290px;
@@ -482,7 +497,6 @@ button:hover {
 	top:0;
 	background:#8E44AD;
 	line-height:215px
-
 }
 
 #thumb1-13{
@@ -533,7 +547,25 @@ button:hover {
 	background:#60af00;
 	line-height:215px
 }
-#thumb6-6,#thumb7-6,#thumb8-6,#thumb9-6 {
+#thumb6-6,#thumb7-6{
+    width:440px;
+	height:215px;
+	position:absolute;
+	left:525px;
+	top:0;
+	background:#8E44AD;
+	line-height:215px
+}
+#thumb8-6{
+	width:440px;
+	height:215px;
+	position:absolute;
+	left:525px;
+	top:0;
+	background:#dd3377;
+	line-height:215px
+}
+#thumb9-6 {
 	width:440px;
 	height:215px;
 	position:absolute;
@@ -633,8 +665,9 @@ button:hover {
 }
 #thumb1-8 .title,#thumb2-8 .title,#thumb3-8 .title,#thumb4-8 .title,#thumb5-8 .title,#thumb6-8 .title,#thumb7-8 .title,#thumb8-8 .title,#thumb9-8 .title {
 	font-size:29px;
-	line-height: 45px;
-	font-family: 微软雅黑
+	line-height: 40px;
+	font-family: 微软雅黑;
+	text-align: center;
 }
 #thumb1-9{
 	width:160px;

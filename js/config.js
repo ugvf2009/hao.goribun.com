@@ -1249,9 +1249,9 @@ bookmark[7][2] = {
     thumb: "uzai.png"
 };
 bookmark[7][3] = {
-    title: "快乐E行",
-    url: "http://www.etpass.com/",
-    thumb: "etpass.png"
+    title: "&nbsp;&nbsp;&nbsp;途牛",
+    url: "http://www.tuniu.com/",
+    thumb: ""
 };
 bookmark[7][4] = {
     title: "携程",
@@ -1294,9 +1294,9 @@ bookmark[7][11] = {
     thumb: "mangocity.png"
 };
 bookmark[8][0] = {
-    title: "资源海",
-    url: "http://www.ziyuanhai.com/",
-    thumb: "ziyuanhai.png"
+    title: "&nbsp;&nbsp;天极下载",
+    url: "http://mydown.yesky.com/",
+    thumb: ""
 };
 bookmark[8][1] = {
     title: "小众软件",
@@ -1309,8 +1309,8 @@ bookmark[8][2] = {
     thumb: "zasv.png"
 };
 bookmark[8][3] = {
-    title: "儿歌下载",
-    url: "http://www.81baobao.com/",
+    title: "&nbsp;下载吧",
+    url: "http://www.xiazaiba.com/",
     thumb: ""
 };
 bookmark[8][4] = {
@@ -1329,7 +1329,7 @@ bookmark[8][6] = {
     thumb: "gougou.png"
 };
 bookmark[8][7] = {
-    title: "天空下载站",
+    title: "&nbsp;天空下载",
     url: "http://www.skycn.com/",
     thumb: ""
 };
